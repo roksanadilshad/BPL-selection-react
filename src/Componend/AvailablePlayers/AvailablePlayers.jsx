@@ -6,13 +6,16 @@ const AvailablePlayers = ({playersPromise}) => {
     //console.log(playersDtata);
     
     return (
-        <div>
-            <h2>Available Players {playersDtata.length}</h2>
+        <div className='w-11/12 mx-auto'>
+            
+            <div className='grid grid-cols-3 gap-4'>
+
             {
                 playersDtata.map(player => <Player key={player.id}
                      player={player}></Player>)
             }
             
+            </div>
         </div>
     );
 };

@@ -25,7 +25,7 @@ const Navbar = () => {
                   </li>
                 </ul>
                 <button className='btn flex justify-center items-center gap-2'>
-                  <span>0</span>
+                  <span>60000000</span>
                   <span> Coin</span>
                   <img src={navCoin} alt="" />
                 </button>
