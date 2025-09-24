@@ -9,7 +9,7 @@
     "bowlingStyle": "Right-arm medium",
     "image": "https://i.ibb.co/yBMSLwx3/Virat-Kohli-in-PMO-New-Delhi.jpg",
     "rating": 4.9,
-    "price": 120.00
+    "price": 120
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "bowlingStyle": "Right-arm offbreak",
     "image": "https://i.ibb.co/mWWvkFX/babar-zjam.jpg",
     "rating": 4.8,
-    "price": 110.00
+    "price": 110
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "bowlingStyle": "Right-arm fast-medium",
     "image": "https://i.ibb.co/rK349CT6/steve-stem.jpg",
     "rating": 4.7,
-    "price": 100.00
+    "price": 100
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "bowlingStyle": "Right-arm legbreak",
     "image": "https://i.ibb.co/rK349CT6/steve-stem.jpg",
     "rating": 4.8,
-    "price": 115.00
+    "price": 115
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "bowlingStyle": "Right-arm offbreak",
     "image": "https://i.ibb.co/n87Rzdqh/kane-williamson.jpg",
     "rating": 4.8,
-    "price": 108.00
+    "price": 108
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "bowlingStyle": "Right-arm legbreak googly",
     "image": "https://i.ibb.co/cPjPfr4/Rashid-Khan-sponsor.jpg",
     "rating": 4.7,
-    "price": 95.00
+    "price": 95
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "bowlingStyle": "Left-arm orthodox",
     "image": "https://i.ibb.co/NnZRpVMj/mashrafe-mortaza.jpg",
     "rating": 4.6,
-    "price": 90.00
+    "price": 90
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "bowlingStyle": "Right-arm fast",
     "image": "https://i.ibb.co/cc6DK0pC/jasprit-bumrah.jpg",
     "rating": 4.9,
-    "price": 125.00
+    "price": 125
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "bowlingStyle": "Left-arm fast-medium",
     "image": "https://i.ibb.co/7NL3TR2W/tren.jpg",
     "rating": 4.7,
-    "price": 98.00
+    "price": 98
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "bowlingStyle": "Right-arm legbreak",
     "image": "https://i.ibb.co.com/zqRk7Vj/david-warner.jpg",
     "rating": 4.6,
-    "price": 92.00
+    "price": 92
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "bowlingStyle": "Right-arm offbreak",
     "image": "https://i.ibb.co/Vc7tWKBB/quinton-de-kock.jpg",
     "rating": 4.7,
-    "price": 96.00
+    "price": 96
   },
   {
     "id": 12,
@@ -141,6 +141,7 @@
     "bowlingStyle": "Right-arm fast",
     "image": "https://i.ibb.co/xSxXFN2p/andre.jpg",
     "rating": 4.8,
-    "price": 105.00
+    "price": 105
   }
+  
 ]

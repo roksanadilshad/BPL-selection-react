@@ -1,6 +1,8 @@
 import React from 'react';
 
-const SelectedPlayers = () => {
+const SelectedPlayers = ({selectedPlayer}) => {
+    console.log(selectedPlayer);
+    
     return (
         <div className='w-11/12 mx-auto'>
             <h1>ioqevh</h1>
