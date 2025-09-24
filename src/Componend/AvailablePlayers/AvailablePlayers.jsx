@@ -7,6 +7,8 @@ const AvailablePlayers = ({playersPromise, setBalance, balance, selectedPlayer, 
     
     return (
         <div className='w-11/12 mx-auto'>
+                 
+            
             
             <div className='grid grid-cols-3 gap-4'>
 

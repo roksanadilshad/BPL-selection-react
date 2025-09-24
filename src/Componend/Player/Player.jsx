@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { IoPerson } from "react-icons/io5";
 import { BsFlagFill } from "react-icons/bs";
+import { toast, ToastContainer } from 'react-toastify';
 
 const Player = ({player, setBalance, balance, selectedPlayer, setSelectedPlayer}) => {
     //console.log(player);
@@ -11,13 +12,18 @@ const Player = ({player, setBalance, balance, selectedPlayer, setSelectedPlayer}
 
     const HandleBalance = () =>{
         if(balance < price){
-            alert('no enough coin!!')
+            toast('no enough coin!!')
             return
         };
+        if(selectedPlayer.length === 6){
+            toast('6 players already selected')
+            return
+        }
         setIsSelect(true);
                 setBalance(balance - price);
                 
     setSelectedPlayer([...selectedPlayer, player])
+    toast('Player Added to Selected')
     }
     return (
         <div className='border-1 border-[#cac8c856] rounded-2xl p-5'>
